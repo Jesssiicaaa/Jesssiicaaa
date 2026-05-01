@@ -2,7 +2,7 @@
 
 **Computer Engineering Student @ Toronto Metropolitan University**
 
-I'm a third-year Computer Engineering student with a focus on **data analytics and applied machine learning** — specifically turning messy, real-world datasets into pipelines, models, and insights that are actually usable. My engineering background means I think about systems end-to-end: not just whether something runs, but whether it's correct, measurable, and maintainable.
+I'm a third-year Computer Engineering student with a focus on **data analytics and applied machine learning** — specifically turning messy, real-world datasets into pipelines, models, and insights that are actually usable. My background is in Computer Engineering, and I've worked on projects ranging from firmware and embedded systems to full-stack development, making me always think about problems from top to bottom. I think about problems at every layer, from  hardware limitations to how data moves through the system and what the user ultimately sees.
 
 My primary interest is **data analysis** — I'm drawn to problems where quantitative analysis drives decisions. Outside of that, I've built across embedded systems, full-stack, and ML evaluation, which gives me context for how software behaves at every level.
 
