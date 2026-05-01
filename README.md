@@ -94,7 +94,7 @@ My work focuses on:
 
 ## 📫 Let’s Connect
 
-* LinkedIn: [[Your Link](http://linkedin.com/in/jessica-olaniyi-89b305348)]
+* LinkedIn: [(http://linkedin.com/in/jessica-olaniyi-89b305348)]
 * Email: [jessica.olaniyi@torontomu.ca]
 
 ---
